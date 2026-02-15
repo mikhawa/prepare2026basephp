@@ -3,8 +3,11 @@
 ## Formation Web Développeur - CF2M Bruxelles
 
 > **Version** : 2026
+
 > **Prérequis** : HTML, CSS, bases en algorithmique
+
 > **PHP** : Version 8.x
+
 > **Auteur** : Michaël J. Pitz | CF2M - Centre de Formation 2 Mille
 
 ---
