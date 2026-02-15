@@ -8,7 +8,7 @@
 
 > **PHP** : Version 8.x
 
-> **Auteur** : Michaël J. Pitz | CF2M - Centre de Formation 2 Mille
+> **Auteur** : Michaël J. Pitz Pour le [CF2M](https://www.cf2m.be/formation/developpeur-web) - Centre de Formation 2 Mille
 
 ---
 
